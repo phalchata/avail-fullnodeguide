@@ -85,7 +85,7 @@ sudo touch /etc/systemd/system/availd.service
 ```python
 sudo nano /etc/systemd/system/availd.service
 ```
-Exit with CTRL X-Y Enter.
+
 Replace "validator-name" with your desired validator name.
 
 ```python
@@ -101,6 +101,7 @@ RestartSec=120
 [Install]
 WantedBy=multi-user.target
 ```
+Exit with CTRL X-Y Enter.
 
 ```python
 sudo systemctl enable availd.service
