@@ -85,6 +85,7 @@ sudo touch /etc/systemd/system/availd.service
 ```python
 sudo nano /etc/systemd/system/availd.service
 ```
+Write down your validator name in (name "validator-name")
 
 ```python
 [Unit]
