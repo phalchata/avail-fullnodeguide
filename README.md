@@ -18,7 +18,7 @@ Recommended
 - **Ubuntu 20.04++**
 
 # Important
-You need to be syncronized after setup. Check your validator name on Telemetry and if your name is there then go file the form.
+You need to be syncronized after setup. Check your validator name on Telemetry and if your name is there then go file the form.(Your validator name might not be shown on telemetry if nodes count more than 1000)
 
 **Form and Details:** **https://x.com/AvailProject/status/1715008696835600451?s=20**
 
